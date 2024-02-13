@@ -7,7 +7,7 @@
 
 		"image":"https://img2.pic.in.th/pic/32D600D6-9DD6-422C-81BA-A21912A6DEBF.gif",
 
-		"url": "https://pastebin.com/raw/T8zqcUhD",
+		"url": "https://raw.githubusercontent.com/Gumpun2007/Movie/main/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87%F0%9F%87%BA%F0%9F%87%B8%202%20(1).txt",
 
 		
 
@@ -22,7 +22,7 @@
 {
 "name": "รีเฟรช 🔄",
 "image": "https://img2.pic.in.th/pic/32D600D6-9DD6-422C-81BA-A21912A6DEBF.gif",
-"url": "https://pastebin.com/raw/T8zqcUhD",
+"url": "https://raw.githubusercontent.com/Gumpun2007/Movie/main/%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%9D%E0%B8%A3%E0%B8%B1%E0%B9%88%E0%B8%87%F0%9F%87%BA%F0%9F%87%B8%202%20(1).txt",
 "import": false },
 
 
